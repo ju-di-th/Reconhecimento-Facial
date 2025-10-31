@@ -1,0 +1,18 @@
+================================================================
+  CLASSIFICADO: INFORMAÇÃO DE NÍVEL 3 (CONFIDENCIAL)
+  ACESSO RESTRITO AO MINISTRO DO MEIO AMBIENTE.
+  Conteúdo estratégico. A violação implica em responsabilidade legal.
+================================================================
+
+RELATÓRIO DE INTELIGÊNCIA ESTRATÉGICA (CONFIDENCIAL)
+
+PROPRIEDADES COM USO DE AGROTÓXICOS PROIBIDOS (SUBSTÂNCIA: METAMIDOFÓS)
+
+| ID Propriedade | Proprietário                        | Coordenadas GPS   | Impacto Hídrico Estimado | Risco de Contaminação |
+|----------------|--------------------------------------|-------------------|---------------------------|-----------------------|
+| PR-9001        | Fazenda Sol Nascente (João S.)       | -21.567, -47.890  | Contaminação Moderada     | ALTO                  |
+| PR-9002        | Sítio Água Clara (Maria C.)          | -15.401, -49.123  | Contaminação Severa       | CRÍTICO               |
+| PR-9003        | Agropecuária Delta (Grupo K.)        | -23.111, -46.555  | Contaminação Baixa        | MÉDIO                 |
+
+ANÁLISE DE IMPACTO: A propriedade PR-9002 está localizada diretamente acima do Aquífero Guarani, com detecção de Metamidofós em poços de monitoramento.  
+Ação imediata de embargo e investigação criminal é recomendada.

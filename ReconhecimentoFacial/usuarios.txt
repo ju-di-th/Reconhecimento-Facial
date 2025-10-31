@@ -1,0 +1,3 @@
+1, Ministro do Meio Ambiente, 3
+2, Diretor de Divisão A, 2
+3, Analista de Dados, 1

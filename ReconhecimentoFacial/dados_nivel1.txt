@@ -1,0 +1,15 @@
+================================================================
+  AVISO: INFORMAÇÃO DE NÍVEL 1 (LIVRE ACESSO)
+  Esta informação é de domínio público e não requer autenticação.
+================================================================
+
+RELATÓRIO PÚBLICO DE AGROTÓXICOS AUTORIZADOS (PORTARIA MMA Nº 45/2025)
+
+| Nome Comercial | Princípio Ativo     | Classe Toxicológica           | Dosagem Máxima (L/ha) | Carência (Dias) |
+|----------------|---------------------|-------------------------------|-----------------------|-----------------|
+| AgroSafe 500   | Glifosato           | III (Medianamente Tóxico)     | 3.0                   | 7               |
+| BioProtect     | Azoxistrobina       | IV (Pouco Tóxico)             | 0.5                   | 14              |
+| Verde Forte    | Mancozeb            | III (Medianamente Tóxico)     | 2.5                   | 21              |
+| EcoHarvest     | Lambda-Cialotrina   | II (Altamente Tóxico)         | 0.1                   | 3               |
+
+OBSERVAÇÕES: O uso deve seguir rigorosamente as Boas Práticas Agrícolas e as recomendações do fabricante.

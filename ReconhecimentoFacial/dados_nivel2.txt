@@ -1,0 +1,17 @@
+================================================================
+  ALERTA DE SEGURANÇA: INFORMAÇÃO DE NÍVEL 2 (RESTRITO)
+  Acesso exclusivo para Diretores de Divisão e Ministro do Meio Ambiente.
+  O compartilhamento não autorizado é proibido.
+================================================================
+
+RELATÓRIO TRIMESTRAL DE NÃO CONFORMIDADE (Q3/2025)
+
+PROPRIEDADES COM USO ACIMA DO LIMITE REGULAMENTAR
+
+| ID Propriedade | Município/Estado   | Agrotóxico Excedido | Limite (L/ha) | Uso Registrado (L/ha) | Status da Ação         |
+|----------------|--------------------|----------------------|----------------|------------------------|-------------------------|
+| PR-4589        | Ribeirão Preto/SP  | AgroSafe 500         | 3.0            | 4.2                    | Notificação Enviada     |
+| PR-1201        | Cascavel/PR        | Verde Forte          | 2.5            | 3.1                    | Em Análise              |
+| PR-7730        | Rio Verde/GO       | EcoHarvest           | 0.1            | 0.15                   | Multa Aplicada          |
+
+RECOMENDAÇÃO: Iniciar processo de auditoria e suspensão temporária do registro de uso para as propriedades PR-4589 e PR-7730.
