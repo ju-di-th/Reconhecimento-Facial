@@ -1,13 +1,13 @@
 # Reconhecimento-Facial
 Projeto Acadêmico de Visão Computacional em Java. Desenvolve um sistema de identificação facial via webcam (OpenCV) para autenticação. Simula o acesso a dados confidenciais do Ministério do Meio Ambiente, aplicando regras de segurança e tratamento de falhas (bloqueio temporário).
 
-# 🔒 Sistema de Identificação e Autenticação Biométrica (Webcam)
+# Sistema de Identificação e Autenticação Biométrica (Webcam)
 
 Este projeto foi desenvolvido como Atividade Prática Supervisionada (APS) com o objetivo de criar uma **ferramenta de segurança biométrica** robusta, utilizando a webcam para autenticação facial e implementando um sistema de controle de acesso hierárquico.
 
 O sistema simula a restrição de acesso a dados estratégicos do Ministério do Meio Ambiente, garantindo que apenas usuários autorizados (Analistas, Diretores e Ministro) possam visualizar informações confidenciais, de acordo com seus respectivos níveis de permissão.
 
-## ✨ Funcionalidades Principais
+## Funcionalidades Principais
 
 *   **Autenticação Biométrica Facial:** Utiliza a webcam para capturar o rosto do usuário em tempo real.
 *   **Reconhecimento de Features:** Implementa um algoritmo de comparação de histogramas (baseado em `Imgproc.compareHist` do OpenCV) para identificar o usuário com base em imagens de referência previamente treinadas.
@@ -29,7 +29,7 @@ O sistema simula a restrição de acesso a dados estratégicos do Ministério do
 | **Eclipse IDE** | Ambiente de Desenvolvimento Integrado utilizado para a codificação e execução. |
 | **Swing/AWT** | Utilizado para a criação da interface gráfica (janela de vídeo e janela de dados). |
 
-## 🚀 Como Executar o Projeto
+## Como Executar o Projeto
 
 ### Pré-requisitos
 
