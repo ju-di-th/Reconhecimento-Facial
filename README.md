@@ -20,7 +20,7 @@ O sistema simula a restrição de acesso a dados estratégicos do Ministério do
 *   **Auditoria e Relatórios:** Geração de um **Log de Acesso** (`log_acessos.txt`) para rastreabilidade de todas as tentativas de autenticação (sucesso e falha).
 *   **Experiência de Usuário Refinada:** Fechamento automático da janela de vídeo após o sucesso da autenticação e manutenção da janela de dados aberta para consulta.
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 | Tecnologia | Função no Projeto |
 | :--- | :--- |
